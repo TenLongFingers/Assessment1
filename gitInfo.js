@@ -52,7 +52,8 @@ let gitStatusDefinition = `git status tells you what's changed, and whether or n
     It should be a string containing the code to add all files.
 */
 
-//CODE HERE
+let gitAddDefinition = `git add will add files from your computer into your repo. You have to add a file again every time you change it.`
+let gitAddCode = `git add .`
 
 //////////////////PROBLEM 7////////////////////
 /*
