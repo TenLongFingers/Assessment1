@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-let gitDefinition()
+let gitDefinition = 'a terminal that allows you to nagivate and run programs from the back end, without the use of a designed GUI'
 
 //////////////////PROBLEM 2////////////////////
 /*
