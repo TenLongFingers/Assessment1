@@ -33,7 +33,7 @@ let gitInitDefinition = `git init initializes your local repo. It creates a spac
     It should be a string containing your best definition of what 'git clone' does.
 */
 
-//CODE HERE
+let gitCloneDefinition = 'git clone creates a fully functional copy of a repo that you can work on and save without affecting the original repo.'
 
 //////////////////PROBLEM 5////////////////////
 /*
