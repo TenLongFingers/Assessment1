@@ -6,7 +6,8 @@ let myName = `Chris`
 //////////////////PROBLEM 2////////////////////
 /* Create a variable called 'faveNum' with a value that is your favorite number. */
 
-let faveNum = 4.25 //the perfect date!//
+let faveNum = 4.25 
+//the perfect date!//
 
 //////////////////PROBLEM 3////////////////////
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
@@ -20,7 +21,9 @@ let lovesCode = true
   If it's not, console.log('not lucky 13').
 */
 
-//CODE HERE
+if(faveNum === 13){
+  console.log(`lucky 13!`)
+} else console.log(`not lucky 13 :c`)
 
 //////////////////PROBLEM 5////////////////////
 /*
