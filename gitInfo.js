@@ -73,4 +73,4 @@ let gitCommitCode = `git commit -m "some descriptive comment here that helps you
     It should be a string containing your best definition of what 'git push' does.
 */
 
-//CODE HERE
+let gitPushDefinition = `git push will upload all the staged commits to gitHub.`
