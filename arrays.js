@@ -41,3 +41,4 @@ for( let i = bigOrSmallArray.length-1; i >= 0; bigOrSmallArray[i--]){
   } else answers.push(`small`)
 }
 console.log(answers)
+//I'm adding a comment to fix my gitHub, ignore this
