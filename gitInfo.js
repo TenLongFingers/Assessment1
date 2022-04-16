@@ -33,7 +33,7 @@ let gitInitDefinition = `git init initializes your local repo. It creates a spac
     It should be a string containing your best definition of what 'git clone' does.
 */
 
-let gitCloneDefinition = 'git clone creates a fully functional copy of a repo that you can work on and save without affecting the original repo.'
+let gitCloneDefinition = `git clone creates a fully functional copy of a repo that you can work on and save without affecting the original repo.`
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -41,7 +41,7 @@ let gitCloneDefinition = 'git clone creates a fully functional copy of a repo th
     It should be a string containing your best definition of what 'git status' does.
 */
 
-//CODE HERE
+let gitStatusDefinition = `git status tells you what's changed, and whether or not those changes are tracked. It can tell you how many changes need to be added, how many changes happened since your last commit, and which files were modified.`
 
 //////////////////PROBLEM 6////////////////////
 /*
