@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-let gitDefinition = 'a terminal that allows you to nagivate and run programs from the back end, without the use of a designed GUI'
+let gitDefinition = `Git is a terminal that allows you to nagivate and run programs from the back end, without the use of a designed GUI.`
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -17,7 +17,7 @@ let gitDefinition = 'a terminal that allows you to nagivate and run programs fro
     It should be a string containing your best definition of what GitHub is.
 */
 
-//CODE HERE
+let gitHubDefinition = `GitHub is a website where you can upload your projects and track changes.`
 
 //////////////////PROBLEM 3////////////////////
 /*
