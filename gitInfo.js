@@ -25,7 +25,7 @@ let gitHubDefinition = `GitHub is a website where you can upload your projects a
     It should be a string containing your best definition of what 'git init' does.
 */
 
-//CODE HERE
+let gitInitDefinition = `git init initializes your local repo. It creates a space where your changes can be added, committed, and tracked.`
 
 //////////////////PROBLEM 4////////////////////
 /*
