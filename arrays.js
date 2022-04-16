@@ -18,8 +18,7 @@ console.log(colorCopy);
 */
 
 const numbers = [1, 2, 3, 4, 5]
-
-middleNums = [numbers.slice(1,4)]
+middleNums = [numbers[1], numbers[2], numbers[3]]
 console.log(middleNums);
 
 
