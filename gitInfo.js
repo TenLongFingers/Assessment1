@@ -64,8 +64,8 @@ let gitAddCode = `git add .`
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-//CODE HERE
-
+let gitCommitDefinition = `git commit saves a snapshot of the file so you can track different versions. These snapshots are what get uploaded to gitHub when you push.`
+let gitCommitCode = `git commit -m "some descriptive comment here that helps you identify the version"`
 
 //////////////////PROBLEM 8////////////////////
 /*
